@@ -31,7 +31,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   {"key":"spider_IKan","name":"❤️爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0823w.jar;md5;7DC752B1F04075EE50FE6A691E682356"},
+   {"key":"spider_IKan","name":"❤️爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.iqiq.io/along6688/JK/main/XC0823w.jar;md5;7DC752B1F04075EE50FE6A691E682356"},
     {
       "key": "Nfyun",
       "name": "🚀Nf云(SP)",
