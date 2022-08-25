@@ -1,5 +1,5 @@
 {
-"spider":"https://gitea.com/859106823/JK/raw/branch/main/1.jar",
+"spider":"https://raw.iqiq.io/along6688/JK/main/1.jar",
 
 "recommend": [{"name": "豆瓣推荐","request": {"method": "GET","header": [{"key": "Referer","value": "https://movie.douban.com/"}],
 "url": {"raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"}},
