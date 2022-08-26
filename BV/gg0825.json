@@ -1,6 +1,3 @@
-//无公众号，无公众号，无公众号,不引流，我是纯小白~啥也不懂，所有东西都是扒拉大佬的，只是为小白提供一个方便，希望大哥们可以高抬贵嘴~
-//感谢各位隐姓埋名的大佬分享~
-//Q群：493192284（如果老哥们有分享精神，欢迎进群。。。）
 {
 	"spider": "http://刚刚.live/jar2/jar0826.jar",
 	"wallpaper": "http://刚刚.live/图",
@@ -23,7 +20,7 @@
 			"quickSearch": 1,
 			"searchable": 1
 		}, 
-		{"key":"csp_77","name":"七七（稳快画质一般）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
+		{"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
 		{
 			"key": "csp_Wmkk",
 			"name": "完美看看（SP）",
