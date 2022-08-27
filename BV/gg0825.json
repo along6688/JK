@@ -5,7 +5,7 @@
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi9saXZlLnR4dA=="]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9hbG9uZzY2ODgvSksvbWFpbi9saXZlLnR4dA=="]
 		}]
 	}],
 	"sites": [
@@ -58,7 +58,7 @@
 		},
         {
 			"key": "小苹果",
-			"name": "小苹果（SP中间有广告）",
+			"name": "小苹果（SP）",
 			"type": 3,
 			"api": "csp_LiteApple",
 			"searchable": 1,
