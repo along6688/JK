@@ -20,7 +20,8 @@
 			"quickSearch": 1,
 			"searchable": 1
 		}, 
-		{"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
+		{"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/o/o/raw/branch/o/o/ts.jar"
+    }, 
 		{
 			"key": "csp_Wmkk",
 			"name": "完美看看（SP）",
