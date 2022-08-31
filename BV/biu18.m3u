@@ -42,18 +42,17 @@
 {"name":"比邻影视","url":"http://0hzy.cn:9990/mogai_api.php/v1.vod"},
 {"name":"追剧达人","url":"https://www.zhuijudaren.com/mogai_api.php/v1.vod"},
 {"name":"69院线","url":"http://app.269w.com/api.php/v1.vod"},
-{"name":"🎠","url":"https://lbapi9.com/api.php/provide/vod"},
 {"name":"创艺","url":"http://www.30dian.cn/api.php/v1.vod"}
 ],
 
 "caijizhan": [
-{"name":"🍹","url":"http://wmcj8.com/inc/sapi.php?ac=videolist"},
-{"name":"🐙","url":"http://cjmygzy.com/inc/sapi.php?ac=videolist"},
-{"name":"🎠","url":"https://lbapi9.com/api.php/provide/vod/at/xml"},
-{"name":"👒","url":"http://secj8.com/inc/sapi.php?ac=videolist"},
-{"name":"🍏","url":"http://bttcj.com/inc/sapi.php?ac=videolist"},
-{"name":"🐨","url":"http://fhapi9.com/api.php/provide/vod/"},
-{"name":"🙈","url":"https://lbapi9.com/api.php/provide/vod/"},
+{"name":"🍹","url":"http://wmcj8.com/inc/sapi.php"},
+{"name":"🐙","url":"http://cjmygzy.com/inc/sapi.php"},
+{"name":"🎠","url":"https://lbapi9.com/api.php"},
+{"name":"👒","url":"http://secj8.com/inc/sapi.php"},
+{"name":"🍏","url":"http://bttcj.com/inc/sapi.php"},
+{"name":"🐨","url":"http://fhapi9.com/api.php"},
+{"name":"🙈","url":"https://lbapi9.com/api.php"},
 {"name":"七七","url":"http://api.kunyu77.com/api.php"}
 ],
 
