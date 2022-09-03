@@ -1,5 +1,5 @@
 {"sites":[
-{"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/77.jar;md5;1B0FAE7C99B09C6F66D6C39B114580A9"},
+{"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/888.png;md5;A523814659F4BF773511C80E16B8F9A1"},
 {"key":"csp_xpath_UM","name":"UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/along6688/JK/main/BV/%E5%88%86%E6%9C%BA/UM.json"},
 {"key":"北雁资源","name":"🦆北雁资源","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories":["电影","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫"]},
 {"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
