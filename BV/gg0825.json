@@ -20,7 +20,8 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1
-		}, 
+		},
+	{"key":"csp_xpath_UM","name":"UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/along6688/JK/main/BV/%E5%88%86%E6%9C%BA/UM.json"},	
 		{
          "key":"csp_Kunyu77",
          "name":"七七影视",
