@@ -125,7 +125,7 @@
 {"key":"阿里影视","name":"🥤阿里影视(聚)","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"千寻时光","name":"🍱千寻时光(聚)","type":1,"api":"http://wy.dqyhg.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"MX 影院","name":"🌭MX 影院(聚)","type":1,"api":"http://49.235.107.145:81/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"MBO 影视","name":"🍹MBO 影视(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0}],"spider":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/888.png;md5;A523814659F4BF773511C80E16B8F9A1",
+{"key":"MBO 影视","name":"🍹MBO 影视(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0}],"spider":"https://raw.iqiq.io/along6688/JK/main/BV/888.png;md5;A523814659F4BF773511C80E16B8F9A1",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img","lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9hbG9uZzY2ODgvSksvbWFpbi9CVi9saXZlLnR4dA=="]}]}],
 
