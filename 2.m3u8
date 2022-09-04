@@ -126,7 +126,7 @@
 {"key":"MX 影院","name":"🌭MX 影院(聚)","type":1,"api":"http://49.235.107.145:81/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"MBO 影视","name":"🍹MBO 影视(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0}],"spider":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/0828.jpg;md5;1C1482FF646CC40E1F924EBE320822BC",
 
-"wallpaper":"http://www.kf666888.cn/api/tvbox/img","lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xcV8yNjg5ODIzMS9UVkJveC8tL3Jhdy9tYWluL2xpdmUvMDgzMHpiLnR4dA=="]}]}],
+"wallpaper":"http://www.kf666888.cn/api/tvbox/img","lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9hbG9uZzY2ODgvSksvbWFpbi9CVi9saXZlLnR4dA=="]}]}],
 
 
 "parses":[{"name":"解析聚合","type":3,"url":"Demo"},{"name":"Json并发","type":2,"url":"Parallel"},{"name":"Json轮询","type":2,"url":"Sequence"},
