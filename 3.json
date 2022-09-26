@@ -151,7 +151,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"http://刚刚.live/jar2/0906.jar"
+      "jar":"https://raw.kgithub.com/along6688/JK/main/BV/0925.jar"
     },
 		{
 			"key": "csp_LibVio",
@@ -256,7 +256,8 @@
 			"searchable": 1
 		},
 		{"key":"KanSJ_spider","name":"看 视 界（SP）","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-		{"key":"293视频","name":"293视频（SP）","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"293视频","name":"293视频（SP）","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.kgithub.com/along6688/JK/main/BV/0925.jar"
+    },
 		
 		{"key":"csp_biubiu_看片网","name":"看 片 网〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/看片网.json"},
 
