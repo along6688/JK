@@ -77,16 +77,8 @@
 			"filterable": 1
 		}, 
 		{"key":"csp_xp_zxzj2","name":"在线之家（SP）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/zxzj2.json"},
-		{
-			"key": "Gitcafe",
-			"name": "️小 纸 条（云盘）",
-			"type": 3,
-			"api": "csp_Gitcafe",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-		},
+		{key:'Gitcafe',name:'小纸条(爬虫)',type:3,api:'csp_Gitcafe',searchable:1,quickSearch:1,filterable:1,ext:'81461f2e9d0b4ffb86612db403824b8a'},
+		{key:'zhaozy',name:'找资源(仅搜索)',type:3,api:'csp_FindZY',searchable:1,quickSearch:1,filterable:1,ext:'81461f2e9d0b4ffb86612db403824b8a'},
 
 				
 		{"key":"t4public",
