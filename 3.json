@@ -761,6 +761,7 @@
 //{"name": "GGTV快速","type": 1,"url": "https://play.fuqizhishi.com/ganggang/API.php?appkey=QQ172598364&url="},
 {"name":"Fosi嗅探","type":0,"url":"https://play.fositv.com/?url="},
 {"name": "OKjx嗅探","type": 0,"url": "https://okjx.cc/?url="},
+{"name": "刚刚","type": 0,"url": "https://vip.fuqizhishi.com/?v="},		
 {"name":"钢铁侠","type":1,"url":"https://json.freejx.in/?url="},
 {"name":"虾米解析","type":0,"url":"https://dm.xmflv.com:4433/?url="},
 {"name":"OK解析","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
