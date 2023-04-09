@@ -1,14 +1,22 @@
 {"spider":"https://raw.iqiq.io/along6688/JK/main/BV/18%2B.jar","wallpaper":"http://刚刚.live/图","sites":[
-{"key":"丝袜","name":"丝袜","type":0,"api":"https://www.siwazyw.org/api.php/provide/vod/at/xml/"},
+{"key":"虎牙影视","name":"虎牙影视","type":0,"api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/"},
+  
+{"key":"玉兔","name":"玉兔","type":0,"api":"https://yutuzy.com/api.php/provide/vod/at/xml"}, 
+{"key":"快av","name":"快av","type":0,"api":"http://kuaiavzy.com/api.php/provide/vod/at/xml/"},
+{"key":"好片","name":"好片","type":0,"api":"https://haopianapi.com/api.php/provide/vod/at/xml"},
+{"key":"JKUN","name":"JKUN","type":0,"api":"https://jkunzyapi.com/api.php/seaxml/vod/at/xml"},    
+{"key":"佳丽","name":"佳丽","type":0,"api":"http://jializyz.com/api.php/provide/vod/at/xml/"},  
+{"key":"滴滴","name":"滴滴","type":0,"api":"https://api.ddapi.cc/api.php/provide/vod/at/xml"},  
+  
+{"key":"草榴资源","name":"草榴资源","type":0,"api":"https://www.caoliuzy.com/api.php/provide/vod/at/xml/"},
+{"key":"老鸨","name":"老鸨","type":0,"api":" https://apilbzy.com/api.php/provide/vod/at/xml/"},  
 {"key":"🍹","name":"🍹","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist"},
-{"key":"🐙","name":"🐙","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist"},
 {"key":"🎠","name":"🎠","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml"},
 {"key":"👒","name":"👒","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist"},
 {"key":"🍏","name":"🍏","type":0,"api":"http://bttcj.com/inc/sapi.php?ac=videolist"},
 {"key":"🐨","name":"🐨","type":1,"api":"https://lbapi9.com/api.php/provide/vod/"},
 {"key":"葡萄","name":"葡萄","type":1,"api":"https://caiji.putaozy.net/inc/apijson_vod.php"},
 {"key":"影视酷","name":"影视酷","type":0,"api":"https://api.ykapi.net/api.php/provide/vod/at/xml"},
-{"key":"酷点","name":"酷点","type":1,"api":"http://api.kdapi.info/api.php/provide/vod/?ac=list"},
 {"key":"深林","name":"深林","type":0,"api":"https://senlinzy.com//api.php/provide/vod/at/xml"},
 {"key":"开云","name":"开云","type":0,"api":"https://kaiyunzy7.com//inc/api.php"},
 {"key":"🙈","name":"🙈","type":1,"api":"http://fhapi9.com/api.php/provide/vod/"}
