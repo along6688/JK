@@ -11,14 +11,22 @@
       "ext": "http://v.tvfan.top:88/tvbox/js/drpy.js"
     },
     {
-      "key": "csp_Alist1",
-      "name": "🅿Alist┃网盘",
+      "key": "csp_apple",
+      "name": "🍎苹果┃App",
       "type": 3,
-      "api": "csp_AList",
+      "api": "csp_LiteApple",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://饭太硬.ga/x/json/alist.json"
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_77",
+      "name": "👒七七┃App",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_WoGG",
@@ -29,15 +37,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://ali.饭太硬.ml/alitoken"
-    },
-    {
-      "key": "csp_apple",
-      "name": "🍎苹果┃App",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_YQKAPP",
@@ -137,24 +136,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_77",
-      "name": "👒七七┃App",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Bd",
-      "name": "💥哔嘀┃直连",
-      "type": 3,
-      "api": "csp_Bdys01",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Czsapp",
       "name": "📔厂长┃直连",
       "type": 3,
@@ -209,6 +190,16 @@
       "filterable": 1
     },
     {
+      "key": "csp_Alist1",
+      "name": "🅿Alist┃网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://饭太硬.ga/x/json/alist.json"
+    },
+    {
       "key": "csp_Bili",
       "name": "🅱哔哔┃合集",
       "type": 3,
@@ -227,6 +218,15 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "http://饭太硬.ga/x/json/biliych.json"
+    },
+    {
+      "key": "csp_Bd",
+      "name": "💥哔嘀┃直连",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_zxzj",
@@ -488,64 +488,64 @@
       "ext": "http://饭太硬.ga/x/XYQ/有声小说吧.json"
     },
     {
-      "key": "七夜",
-      "name": "😾七夜┃4K",
+      "key": "Yisou",
+      "name": "易搜",
       "type": 3,
-      "api": "csp_Dovx",
+      "api": "csp_Yisou",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/https://www.qiaoji8.com/jar1/token.txt"
+      "filterable": 1,
+      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
     {
-      "key": "Zhaozy",
-      "name": "🐺找资源┃4K",
+      "key": "Gitcafe",
+      "name": "小纸条",
       "type": 3,
-      "api": "csp_Zhaozy",
+      "api": "csp_GitCafe",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/https://www.qiaoji8.com/jar1/token.txt"
+      "filterable": 1,
+      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
     {
-      "key": "YiSo",
-      "name": "😹易搜┃4K",
+      "key": "AliPanSou",
+      "name": "盘搜",
       "type": 3,
-      "api": "csp_YiSo",
+      "api": "csp_AliPanSou",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/https://www.qiaoji8.com/jar1/token.txt"
+      "filterable": 1,
+      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
     {
-      "key": "PanSou",
-      "name": "🦊盘搜┃4K",
+      "key": "UPanSo",
+      "name": "优盘搜",
       "type": 3,
-      "api": "csp_PanSou",
+      "api": "csp_UPanSo",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/https://www.qiaoji8.com/jar1/token.txt"
+      "filterable": 1,
+      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
     {
-      "key": "UpYun",
-      "name": "😻Up搜┃4K",
+      "key": "FindZY",
+      "name": "找资源",
       "type": 3,
-      "api": "csp_UpYun",
+      "api": "csp_FindZY",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/https://www.qiaoji8.com/jar1/token.txt"
+      "filterable": 1,
+      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
     {
       "key": "push_agent",
-      "name": "🛴手机┃推送",
+      "name": "推送",
       "type": 3,
-      "api": "csp_Push",
+      "api": "csp_PushAgent",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/https://www.qiaoji8.com/jar1/token.txt"
+      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
     {
       "key": "csp_XYQHiker皮皮鸭",
