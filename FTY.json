@@ -495,7 +495,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.qiaoji8.com/jar1/token.txt"
+      "ext": "https://www.qiaoji8.com/jar1/token.txt",
+"jar": "spider": "http://cdn.qiaoji8.com/fix230320.jar;md5;58dbcf7265f01cc353e5b27855600236"
     },
     {
       "key": "Gitcafe",
@@ -505,7 +506,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.qiaoji8.com/jar1/token.txt"
+      "ext": "https://www.qiaoji8.com/jar1/token.txt","jar": "spider": "http://cdn.qiaoji8.com/fix230320.jar;md5;58dbcf7265f01cc353e5b27855600236"
     },
     {
       "key": "AliPanSou",
@@ -515,7 +516,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.qiaoji8.com/jar1/token.txt"
+      "ext": "https://www.qiaoji8.com/jar1/token.txt","jar": "spider": "http://cdn.qiaoji8.com/fix230320.jar;md5;58dbcf7265f01cc353e5b27855600236"
     },
     {
       "key": "UPanSo",
@@ -525,7 +526,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.qiaoji8.com/jar1/token.txt"
+      "ext": "https://www.qiaoji8.com/jar1/token.txt","jar": "spider": "http://cdn.qiaoji8.com/fix230320.jar;md5;58dbcf7265f01cc353e5b27855600236"
     },
     {
       "key": "FindZY",
@@ -535,7 +536,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.qiaoji8.com/jar1/token.txt"
+      "ext": "https://www.qiaoji8.com/jar1/token.txt","jar": "spider": "http://cdn.qiaoji8.com/fix230320.jar;md5;58dbcf7265f01cc353e5b27855600236"
     },
     {
       "key": "push_agent",
@@ -545,7 +546,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://www.qiaoji8.com/jar1/token.txt"
+      "ext": "https://www.qiaoji8.com/jar1/token.txt","jar": "spider": "http://cdn.qiaoji8.com/fix230320.jar;md5;58dbcf7265f01cc353e5b27855600236"
     },
     {
       "key": "csp_XYQHiker皮皮鸭",
