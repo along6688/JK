@@ -702,7 +702,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIubW9leXkueHl6L2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9hbG9uZzY2ODgvSksvbWFpbi82Lmpzb24K"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9hbG9uZzY2ODgvSksvbWFpbi82Lmpzb24="
           ]
         }
       ]
